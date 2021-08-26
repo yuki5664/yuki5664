@@ -13,6 +13,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuki5664/posts.svg" />
   </a>
   <//qiita.com/yuki5664">
+  <a href="http://qiita.com/yuki5664">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuki5664/contributions.svg" />
   </a>
 </p>

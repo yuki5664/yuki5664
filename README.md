@@ -3,7 +3,7 @@
   <a href="https://github.com/yuki5664">
     <img src="https://komarev.com/ghpvc/?username=yuki5664" alt="yuki5664" />
   </a>
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/tanayu7777">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
   <!-- <a href="https://stackoverflow.com/users/5720201/yuki5664">
